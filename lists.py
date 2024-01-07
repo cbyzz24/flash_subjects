@@ -1,3 +1,4 @@
+import flet as ft
 
 civics_questions = [
     ("What is the supreme law of the land in the United States?", "The Constitution"),
@@ -32,7 +33,7 @@ civics_questions = [
     ("What is the purpose of the Preamble to the U.S. Constitution?", "To introduce and explain the purpose of the Constitution")
 ]
 
-world_history_questions = [
+history_questions = [
     ("Which ancient civilization developed the first system of writing?", "Sumerians"),
     ("Who was the founder of Buddhism?", "Siddhartha Gautama"),
     ("What was the Silk Road?", "A network of trade routes connecting the East and West"),
